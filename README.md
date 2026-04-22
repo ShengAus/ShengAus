@@ -17,5 +17,5 @@ I’m interested in ML Engineer opportunities that tackle real-world problems.
 - Research assistant — USYD Brain and Mind Centre
 
 ## Links
-- Portfolio: [Wanna know more about me? ]()
+- Portfolio: [Wanna know more about me? ](https://shengaus.github.io/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sheng-chen-usyd/)
